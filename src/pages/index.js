@@ -82,7 +82,7 @@ function Home() {
                 styles.wikibutton,
               )}
               to={useBaseUrl('docs/')}>
-              Get Started
+              Get Learning
             </Link>
           </div>
         </div>
